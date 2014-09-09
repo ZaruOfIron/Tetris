@@ -1,0 +1,10 @@
+*.o
+*.tmp
+*.exe
+*~
+*.swp
+*.wav
+*.d
+data/
+obj/
+log.txt
