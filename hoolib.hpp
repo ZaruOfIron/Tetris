@@ -32,6 +32,6 @@ int rotateIndex(int index, int size);
 
 }
 
-#endif
+#endif	// ___HOOLIB_HPP___
 
 
